@@ -1,6 +1,35 @@
-.card{
+.card {
     align-self: auto;
+    padding: 10px;
+    margin-top: 15px;
 }
-.body{
+body {
     font-family: sans-serif;
+}
+navbar {
+    background-color: #484b6a;
+}
+.hello{
+    font-size: 54px;
+}
+.container{
+    padding-top: 15px;
+}
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+  
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+  
+/* selected link */
+a:active {
+    color: blue;
 }
