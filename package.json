@@ -1,0 +1,24 @@
+{
+  "name": "gitclass",
+  "version": "1.0.0",
+  "description": "Uso Simple de HTML & CSS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArachnePotes/Git-JrClass.git"
+  },
+  "keywords": [
+    "git",
+    "HTMl",
+    "CSS"
+  ],
+  "author": "Santiago Potes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArachnePotes/Git-JrClass/issues"
+  },
+  "homepage": "https://github.com/ArachnePotes/Git-JrClass#readme"
+}
